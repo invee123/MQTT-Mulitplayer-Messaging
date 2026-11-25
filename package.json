@@ -1,7 +1,15 @@
 {
   "name": "mqtt-multiplayer-messaging",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Zero-dependency star-topology multiplayer room transport over MQTT-over-WSS for browser games.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invee123/MQTT-Mulitplayer-Messaging.git"
+  },
+  "bugs": {
+    "url": "https://github.com/invee123/MQTT-Mulitplayer-Messaging/issues"
+  },
+  "homepage": "https://github.com/invee123/MQTT-Mulitplayer-Messaging#readme",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
